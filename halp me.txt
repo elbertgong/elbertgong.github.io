@@ -1,0 +1,56 @@
+Jekyll. Karpathy's article mentions jekyll build, _posts, _assets.
+Set up a Github Pages site at {my username}.github.io
+installed ubuntu on windows from the msft store
+Needs to "turn windows features on or off" and select "windows subsystem for linux" and reboot. Alternatively run this administrator powershell command: Enable-WindowsOptionalFeature -Online -FeatureName Microsoft-Windows-Subsystem-Linux
+i found my build number (16299) and other things (RAM, processor, device name/id, product id, etc) under Settings > System > About
+Microsoft Docs: WSL documentation, install WSL, WSL FAQ, and more
+In the Ubuntu shell, my Windows file are over in /mnt/c
+sudo apt-get update -y && sudo apt-get upgrade -y fetched 15.2 MB of xenial updates, 60.8 MB of amd64 stuff, and unpacked/processed/set up a bunch more things.
+sudo apt-add-repository ppa:brightbox/ruby-ng told me This PPA no longer includes Phusion Passenger packages, and NGINX packages with Passenger support. See https://launchpad.net/~brightbox/+archive/ubuntu/passenger-legacy
+Ruby took another 200 something MB.
+When I sudo gem anything, Norton throws a firewall alert: ruby2 does not have a valid digital signature, unknown unknown unproven etc. Not sure, I don't remember completely. I said "allow this instance"
+I've been using Jekyll Installation Requirements and Jekyll on Windows thus far. I now have Linux, Unix, Ruby 2.3, RubyGems, GCC, and Make. I'm not gonna jekyll new my_blog right now. Gonna transition over to the Github help page Using Jekyll With Pages.
+There are User/Organization and Project Github Pages. Project Pages let you build from other branches. I'll just go with standard User page for now.
+Beware: I create a Gemfile with a "gem" command even though I've been "sudo gem" everything so far.
+Atom is a text editor
+A little scared- Github Pages told me to "bundle install", which sounds like something to install bundler and ruby. Except I already did. And I needed to sudo everything. 
+And there was an error: Gem::Ext::BuildError: ERROR: Failed to build gem native extension. zlib is missing; necessary for building libxml2 *** extconf.rb failed *** Could not create Makefile due to some reason, probably lack of necessary libraries and/or headers. Check the mkmf.log file for more details. You may need configuration options.
+I looked online and tried sudo apt-get install zlib1g-dev. nokogiri depends on libxml2 which depends on zlib. Yay! Now bundle-install works... and ooh it's installing a bunch of jekyll themes!
+For the bundle exec jekyll _3.3.0_ new {new jekyll site repo name}, I'm going to use 3.6.0 instead. Also, I want to create it in my existing github repo, so I use bundle exec jekyll new . --force (thanks https://michaelsoolee.com/jekyll-existing-folder/)
+The line "jekyll", "3.3.0" was not there so I didn't have to delete it, and I manually added in the line gem "github-pages", group: :jekyll_plugins
+When I serve: Dependency Error: Yikes! It looks like you don't have jekyll-remote-theme or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. Could not open library '{libcurl/libcurl.so/libcurl.so.4}': libcurl.so.4: cannot open shared object file: No such file or directory' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/!
+It seems like I don't have libcurl, libcurl.so, or libcurl.so.4. Tried "gem installing libcurl" but no luck. Somebody on stackoverflow said to "sudo gem install typhoeus", so I did. Didn't work. Somebody said "sudo apt-get install libcurl3". Seems that curl had been installed weirdly, and running this reinstalled it.
+Server running. Yay!
+The serve message told me that auto-regeneration may not work on some Windows versions. See https://github.com/Microsoft/BashOnWindows/issues/216. But it seems to me that auto-regeneration is enabled, and my WSL is doing well.
+Now I can go to http://127.0.0.1:4000 and the site is there.
+Commands I need:
+cd /mnt/c/{path to place}
+bundle update github-pages
+bundle exec jekyll serve
+(also, jekyll build is useful)
+
+Github help has a "configuring jekyll" page, talking about config.yml and front matter
+Don't panic and die. Check the various troubleshoot pages.
+Ohh. Jekyll is kinda like Tomcat. You build, and deploy. Lesson: yes, it's hard. But I have a lot of time to get better at things. Just gotta jump into it.
+Gonna retroactively add some links in here: github pages basics. Jekyll docs has a "github pages" thing talking about the github-pages gem and project vs user/org pages. Links to Jekyll github and Minima github. 
+kylewbanks.com creating category pages in Jekyll without plugins.
+http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
+Use any theme with GitHub pages
+
+To change the theme, you can edit the _config.yml or use Jekyll Theme Chooser under the repo > Settings > Github Pages
+Also, to change theme I need to install the new gem (jekyll-themes-cayman) locally using gem install, or putting the gem into my Gemfile and using bundle install.
+Ok to change the theme, I need to change layout: from home/page/post to default.
+https://stackoverflow.com/questions/42966262/change-theme-of-my-github-pages-and-pages-are-empty/42967184#42967184
+It seems like the github pages available themes don't let you have multiple posts or pages. Just one static homepage. Switching back to minima.
+Using other themes besides the default:
+https://github.com/blog/2464-use-any-theme-with-github-pages
+
+Next:
+github help: using jekyll with pages (customizing CSS and HTML)
+http://jmcglone.com/guides/github-pages/
+jekyll site examples
+jekyll creating "pages" and "posts"
+ruby quickstart
+custom 404
+what's an "AMI"
+dynamic sites- bill wurtz password
