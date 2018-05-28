@@ -53,4 +53,4 @@ jekyll creating "pages" and "posts"
 ruby quickstart
 custom 404
 what's an "AMI"
-dynamic sites- bill wurtz password
+dynamic sites- bill wurtz password kinda stuff. There are too many ways. Think CS50 finance (php javascript jquery). There's angular (FB) and react (google).
