@@ -9,7 +9,7 @@ sudo apt-get update -y && sudo apt-get upgrade -y fetched 15.2 MB of xenial upda
 sudo apt-add-repository ppa:brightbox/ruby-ng told me This PPA no longer includes Phusion Passenger packages, and NGINX packages with Passenger support. See https://launchpad.net/~brightbox/+archive/ubuntu/passenger-legacy
 Ruby took another 200 something MB.
 When I sudo gem anything, Norton throws a firewall alert: ruby2 does not have a valid digital signature, unknown unknown unproven etc. Not sure, I don't remember completely. I said "allow this instance"
-I've been using Jekyll Installation Requirements and Jekyll on Windows thus far. I now have Linux, Unix, Ruby 2.3, RubyGems, GCC, and Make. I'm not gonna jekyll new my_blog right now. Gonna transition over to the Github help page Using Jekyll With Pages.
+I've been using Jekyll Installation Requirements and Jekyll on Windows thus far. I now have Linux, Unix, Ruby 2.3, RubyGems, GCC, and Make. I'm not gonna jekyll new my_blog right now. Gonna transition over to the Github help page Using Jekyll With Pages. (good!)
 There are User/Organization and Project Github Pages. Project Pages let you build from other branches. I'll just go with standard User page for now.
 Beware: I create a Gemfile with a "gem" command even though I've been "sudo gem" everything so far.
 Atom is a text editor
