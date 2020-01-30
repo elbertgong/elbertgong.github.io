@@ -15,6 +15,7 @@ Beware: I create a Gemfile with a "gem" command even though I've been "sudo gem"
 Atom is a text editor
 A little scared- Github Pages told me to "bundle install", which sounds like something to install bundler and ruby. Except I already did. And I needed to sudo everything. 
 And there was an error: Gem::Ext::BuildError: ERROR: Failed to build gem native extension. zlib is missing; necessary for building libxml2 *** extconf.rb failed *** Could not create Makefile due to some reason, probably lack of necessary libraries and/or headers. Check the mkmf.log file for more details. You may need configuration options.
+== Attempt #2, found same problem. Error installing gdbm, error installing zlib ==
 I looked online and tried sudo apt-get install zlib1g-dev. nokogiri depends on libxml2 which depends on zlib. Yay! Now bundle-install works... and ooh it's installing a bunch of jekyll themes!
 For the bundle exec jekyll _3.3.0_ new {new jekyll site repo name}, I'm going to use 3.6.0 instead. Also, I want to create it in my existing github repo, so I use bundle exec jekyll new . --force (thanks https://michaelsoolee.com/jekyll-existing-folder/)
 The line "jekyll", "3.3.0" was not there so I didn't have to delete it, and I manually added in the line gem "github-pages", group: :jekyll_plugins
@@ -25,27 +26,35 @@ The serve message told me that auto-regeneration may not work on some Windows ve
 Now I can go to http://127.0.0.1:4000 and the site is there.
 Commands I need:
 cd /mnt/c/{path to place}
-bundle update github-pages
+bundle update {github-pages}
 bundle exec jekyll serve
 (also, jekyll build is useful)
+== 2020, back to this stage. The github pages tutorial diverges slightly from the jekyll tutorial, and I should follow the github one. I also apt-got zlib1g-dev and ruby-dev.. ==
 
-Github help has a "configuring jekyll" page, talking about config.yml and front matter
 Don't panic and die. Check the various troubleshoot pages.
 Ohh. Jekyll is kinda like Tomcat. You build, and deploy. Lesson: yes, it's hard. But I have a lot of time to get better at things. Just gotta jump into it.
-Gonna retroactively add some links in here: github pages basics. Jekyll docs has a "github pages" thing talking about the github-pages gem and project vs user/org pages. Links to Jekyll github and Minima github. 
-kylewbanks.com creating category pages in Jekyll without plugins.
+
+Gonna retroactively add the main links: 
+https://guides.github.com/features/pages/
+https://jekyllrb.com/docs/ (full tutorials, including html/css)
+https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
+
+https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins
 http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
-Use any theme with GitHub pages
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/
 
 To change the theme, you can edit the _config.yml or use Jekyll Theme Chooser under the repo > Settings > Github Pages
 Also, to change theme I need to install the new gem (jekyll-themes-cayman) locally using gem install, or putting the gem into my Gemfile and using bundle install.
-Ok to change the theme, I need to change layout: from home/page/post to default.
+Ok to change the theme, I need to change layout: from home/page/post to default. 
+(home/page/post make the title/subtitle look slightly nicer)
 https://stackoverflow.com/questions/42966262/change-theme-of-my-github-pages-and-pages-are-empty/42967184#42967184
 It seems like the github pages available themes don't let you have multiple posts or pages. Just one static homepage. Switching back to minima.
 Using other themes besides the default:
 https://github.com/blog/2464-use-any-theme-with-github-pages
 
 Next:
+install bluetooth https://www.dell.com/support/article/us/en/04/sln113225/download-and-install-the-latest-wireless-bluetooth-driver?lang=en
+gem "jekyll", ">= 3.6.3"
 github help: using jekyll with pages (customizing CSS and HTML)
 http://jmcglone.com/guides/github-pages/
 jekyll site examples
@@ -54,3 +63,12 @@ ruby quickstart
 custom 404
 what's an "AMI"
 dynamic sites- bill wurtz password kinda stuff. There are too many ways. Think CS50 finance (php javascript jquery). There's angular (FB) and react (google).
+
+
+gohugo.io
+html5up
+https://raindrop.io/collection/2695008
+(i pulled this from https://workingusername.wordpress.com/2018/01/01/thereisnopassword/ and gdrive)
+personal websites: david, michael, aron, patri/ck, eric chen, warren partridge, dennis yale investment club template, cs181 template, brieucvourch.com, strattyx, gerald kwok, andreas
+kyleobrien.io kevinverre.com omrigabay.me nafizb.com https://github.com/christopherkade/awesome-dev-websites
+https://www.fast.ai/2020/01/16/fast_template/
