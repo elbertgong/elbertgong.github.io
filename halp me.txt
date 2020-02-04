@@ -29,6 +29,7 @@ cd /mnt/c/{path to place}
 bundle update {github-pages}
 bundle exec jekyll serve
 (also, jekyll build is useful)
+(also 'bundle info minima' tells you where minima gem is installed)
 == 2020, back to this stage. The github pages tutorial diverges slightly from the jekyll tutorial, and I should follow the github one. I also apt-got zlib1g-dev and ruby-dev.. ==
 
 Don't panic and die. Check the various troubleshoot pages.
@@ -39,11 +40,8 @@ https://guides.github.com/features/pages/
 https://jekyllrb.com/docs/ (full tutorials, including html/css)
 https://help.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll
 
-https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins
-http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html
-https://github.blog/2017-11-29-use-any-theme-with-github-pages/
-
-To change the theme, you can edit the _config.yml or use Jekyll Theme Chooser under the repo > Settings > Github Pages
+CHANGE THEME
+You can edit the _config.yml or use Jekyll Theme Chooser under the repo > Settings > Github Pages
 Also, to change theme I need to install the new gem (jekyll-themes-cayman) locally using gem install, or putting the gem into my Gemfile and using bundle install.
 Ok to change the theme, I need to change layout: from home/page/post to default. 
 (home/page/post make the title/subtitle look slightly nicer)
@@ -52,18 +50,25 @@ It seems like the github pages available themes don't let you have multiple post
 Using other themes besides the default:
 https://github.com/blog/2464-use-any-theme-with-github-pages
 
-Next:
-install bluetooth https://www.dell.com/support/article/us/en/04/sln113225/download-and-install-the-latest-wireless-bluetooth-driver?lang=en
-gem "jekyll", ">= 3.6.3"
+CUSTOMIZE HTML/CSS
 github help: using jekyll with pages (customizing CSS and HTML)
-http://jmcglone.com/guides/github-pages/
-jekyll site examples
-jekyll creating "pages" and "posts"
-ruby quickstart
-custom 404
-what's an "AMI"
-dynamic sites- bill wurtz password kinda stuff. There are too many ways. Think CS50 finance (php javascript jquery). There's angular (FB) and react (google).
+base everything on the minima repo at /var/lib/gems/2.5.0/gems/minima-2.5.1
+can link to html pages. add in stylesheets/scripts to those. can use wordpress to convert wysiwyg to html.
+Next
+jekyll quickstart- create a new layout with tabs (copying an old layout that probably uses "include"). 
+copy the assets/css/style.scss (just includes another sass file)
+customize 404, favicon
+make a "read this first" page. turn this text file into a page. start blogging again! (about javier apfeld elegans, and everything!)
 
+https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins
+https://github.blog/2017-11-29-use-any-theme-with-github-pages/
+http://jmcglone.com/guides/github-pages/
+jekyll creating "pages" and "posts"
+jekyll plugins
+ruby quickstart
+
+jekyll site examples
+http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html -> jekyll bootstrap (more themes) and karl broman's barebones simple_site.
 bootstrap
 gohugo.io
 html5up
@@ -72,3 +77,11 @@ https://raindrop.io/collection/2695008
 personal websites: david, michael, aron, patri/ck, eric chen, warren partridge, dennis yale investment club template, cs181 template, brieucvourch.com, strattyx, gerald kwok, andreas, andrej karpathy
 kyleobrien.io kevinverre.com omrigabay.me nafizb.com https://github.com/christopherkade/awesome-dev-websites
 https://www.fast.ai/2020/01/16/fast_template/
+
+DYNAMIC SITES
+bill wurtz password kinda stuff. There are too many ways. Think CS50 finance (php javascript jquery). There's angular and react.
+and.. firebase (or gcp if ambitious) backend
+remember when I failed at that firebase hackathon? this could be my redeeming moment!
+all the technologies from cs50.ly/beyond. heroku!
+https://medium.com/pan-labs/dynamic-web-apps-on-github-pages-for-free-ffac2b776d45
+a project is starting to germinate. A "Notes" app!
