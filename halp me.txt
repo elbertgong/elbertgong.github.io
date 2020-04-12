@@ -77,6 +77,7 @@ https://raindrop.io/collection/2695008
 personal websites: david, michael, aron, patri/ck, eric chen, warren partridge, dennis yale investment club template, cs181 template, brieucvourch.com, strattyx, gerald kwok, andreas, andrej karpathy
 kyleobrien.io kevinverre.com omrigabay.me nafizb.com https://github.com/christopherkade/awesome-dev-websites
 https://www.fast.ai/2020/01/16/fast_template/
+Netlify
 
 DYNAMIC SITES
 bill wurtz password kinda stuff. There are too many ways. Think CS50 finance (php javascript jquery). There's angular and react.
