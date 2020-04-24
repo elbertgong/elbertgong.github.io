@@ -30,8 +30,8 @@ remote-theme: songzivong/dark-minima
 # minima:
 #   skin: solarized-dark
 plugins:
-  - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-feed
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
