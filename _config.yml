@@ -23,12 +23,12 @@ twitter_username: ajgij938wkrjn8d
 github_username:  elbertgong
 youtube_username: channel/UC1hnypHEjDAYc5T37vFH0Dg
 
+repository: elbertgong/elbertgong.github.io
+
 # Build settings
 markdown: kramdown
-remote-theme: songzivong/dark-minima
+remote-theme: mmistakes/minimal-mistakes
 # theme: minima
-# minima:
-#   skin: solarized-dark
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
