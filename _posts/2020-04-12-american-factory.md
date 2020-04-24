@@ -17,6 +17,8 @@ If you were Obama, and you had to pick one documentary, out of the thousands of 
 
 You'd know that, regardless of what you choose, it will face a reactionary backlash on many levels. It'll become irrevocably attached to you, and all your controversial connotations, in most people's minds. It'll attract far more attention than other equally good docs-- other equally impressive feats of storytelling/engineering. That's just the reality of your life-- the Affordable Care Act becomes "Obamacare". You'd probably want to find a film as uncontroversial & impervious & rock-solid as possible. A film that checks every critical box.
 
-As president, your _expertise_ is high-stakes decision making.
+Fortunately, high-stakes decision making is _what you do_.
+
+You gather a panel of renowned experts. You draft a checklist of every possible criterion you can imagine. 
 
 Reflections from American Factory; I had an idea of what to expect going in. Themes. Class conflict. And advanced cinematography. But when you spend time in the world, that's where the growth comes from. I want to be an ethical leader. How can I have confidence in my future moral positions, in conflicts of warlike proportions? Morality is a muscle to be exercised. Consider this two hours of exercise. I also think about the Obamas; imagine their reading story after story like this, thinking when I get to the top I swear I will stay grounded. Moral fitness should be a prerequisite. Without it, you get punditry, like a basketball writer not watching basketball. Some basic things I can do: take a small salary, control the proportion of schmoozy-to-grimy environments, work hard, be authentic with my coworkers and encourage their education/growth.

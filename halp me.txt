@@ -74,7 +74,7 @@ gohugo.io
 html5up
 https://raindrop.io/collection/2695008
 (i pulled this from https://workingusername.wordpress.com/2018/01/01/thereisnopassword/ and gdrive)
-personal websites: david, michael, aron, patri/ck, eric chen, warren partridge, dennis yale investment club template, cs181 template, brieucvourch.com, strattyx, gerald kwok, andreas, andrej karpathy
+personal websites: david fan, michael ge, aron, patrick, eric chen, warren partridge, dennis yale investment club template, cs181 template, brieucvourch.com, strattyx, gerald kwok, andreas, andrej karpathy
 kyleobrien.io kevinverre.com omrigabay.me nafizb.com https://github.com/christopherkade/awesome-dev-websites
 https://www.fast.ai/2020/01/16/fast_template/
 Netlify
