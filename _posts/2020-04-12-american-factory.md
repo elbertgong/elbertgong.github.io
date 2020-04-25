@@ -1,11 +1,10 @@
 ---
-layout: post
 title:  "American factory"
 date:   2020-04-12 15:46:00 -0800
 categories: update
 ---
 
-Hi, I'm Elbert, a recent college grad working in tech. 
+Hi, I'm Elbert, I recently finished my undergrad, and I'm working in tech.
 
 You know what else I recently did? I ordered a 30-day Netflix trial and streamed American Factory.
 

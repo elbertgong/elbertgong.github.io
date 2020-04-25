@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Second post"
 date:   2020-01-29 11:25:00 -0800
 categories: update
