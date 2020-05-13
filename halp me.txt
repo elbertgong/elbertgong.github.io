@@ -17,6 +17,7 @@ A little scared- Github Pages told me to "bundle install", which sounds like som
 And there was an error: Gem::Ext::BuildError: ERROR: Failed to build gem native extension. zlib is missing; necessary for building libxml2 *** extconf.rb failed *** Could not create Makefile due to some reason, probably lack of necessary libraries and/or headers. Check the mkmf.log file for more details. You may need configuration options.
 == Attempt #2, found same problem. Error installing gdbm, error installing zlib ==
 I looked online and tried sudo apt-get install zlib1g-dev. nokogiri depends on libxml2 which depends on zlib. Yay! Now bundle-install works... and ooh it's installing a bunch of jekyll themes!
+(Nate found the same error. Nate also had this https://askubuntu.com/questions/1054705/error-while-installing-ruby-on-windows-subsystem-for-linux)
 For the bundle exec jekyll _3.3.0_ new {new jekyll site repo name}, I'm going to use 3.6.0 instead. Also, I want to create it in my existing github repo, so I use bundle exec jekyll new . --force (thanks https://michaelsoolee.com/jekyll-existing-folder/)
 The line "jekyll", "3.3.0" was not there so I didn't have to delete it, and I manually added in the line gem "github-pages", group: :jekyll_plugins
 When I serve: Dependency Error: Yikes! It looks like you don't have jekyll-remote-theme or one of its dependencies installed. In order to use Jekyll as currently configured, you'll need to install this gem. Could not open library '{libcurl/libcurl.so/libcurl.so.4}': libcurl.so.4: cannot open shared object file: No such file or directory' If you run into trouble, you can find helpful resources at https://jekyllrb.com/help/!
@@ -49,24 +50,27 @@ https://stackoverflow.com/questions/42966262/change-theme-of-my-github-pages-and
 It seems like the github pages available themes don't let you have multiple posts or pages. Just one static homepage. Switching back to minima.
 Using other themes besides the default:
 https://github.blog/2017-11-29-use-any-theme-with-github-pages/
-Dark minima: using solarized-dark skin requires minima 3.0 which is incompatible with GH pages. I tried the jekyll-remote-theme songzivong/dark-minima
+Dark minima: using solarized-dark skin requires minima 3.0 which is incompatible with GH pages. I tried the jekyll-remote-theme songzivong/dark-minima. It didn't work for some reason. (probably me not being enough of a monkey)
 keep trying to use a remote theme. Troubleshooting https://github.com/mmistakes/minimal-mistakes/issues/1937 etc etc. Moral of the story: it's easier to fork/copy the starter repo than copy in each relevant change. Although I understand the architecture now, it took a lot longer.
+github.com/mmistakes/minimalmistakes (great!)
 
 CUSTOMIZE HTML/CSS
 github help: using jekyll with pages (customizing CSS and HTML)
 base everything on the minima repo at /var/lib/gems/2.5.0/gems/minima-2.5.1
 can link to html pages. add in stylesheets/scripts to those. can use wordpress to convert wysiwyg to html.
 Next
-customize the minimal-mistakes. borders, font size, 
-jekyll quickstart- create a new layout with tabs (copying an old layout that probably uses "include"). 
-copy the assets/css/style.scss (just includes another sass file)
-customize 404, favicon
-make a "read this first" page. turn this text file into a page. start blogging again! (about javier apfeld elegans, and everything!)
+- customize the minimal-mistakes. borders, font size, 
+- copy the assets/css/style.scss (just includes another sass file)
+- customize 404, favicon
+- make a "read this first" page. turn this text file into a page. start blogging again! (about javier apfeld elegans, and everything!)
+
+- jekyll quickstart- create a new layout with tabs (copying an old layout that probably uses "include"). non-trivial
+
 
 https://kylewbanks.com/blog/creating-category-pages-in-jekyll-without-plugins
 http://jmcglone.com/guides/github-pages/
-jekyll creating "pages" and "posts"
-jekyll plugins
+jekyll creating "pages" and "posts" (done)
+jekyll plugins (done)
 jekyll quickstart
 
 jekyll site examples

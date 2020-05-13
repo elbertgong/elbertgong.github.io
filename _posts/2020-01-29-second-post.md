@@ -3,6 +3,8 @@ title:  "Second post"
 date:   2020-01-29 11:25:00 -0800
 categories: update
 ---
+uh.         kiger ting? :D
+
 Hey there. If you are watching this site, you are probably Nathan Gong. If you're not my direct family, you probably haven't heard from me in a while. That's because the creative faucet has been turned close to shut in the past 3-4 years. Hopefully this is the start of a change.
 
 Here's [Africa][africa]
