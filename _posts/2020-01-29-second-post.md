@@ -7,7 +7,8 @@ uh.         kiger ting? :D
 
 Hey there. If you are watching this site, you are probably Nathan Gong. If you're not my direct family, you probably haven't heard from me in a while. That's because the creative faucet has been turned close to shut in the past 3-4 years. Hopefully this is the start of a change.
 
-Here's [Africa][africa]
+Here's [Africa][africa]  
+another [Africa quiz](https://www.sporcle.com/games/Chenchilla/africa-find)
 
 Another night has gone. Life goes on. Another dawn is breaking.
 Turn and face the sun. One by one. The world outside is waking.
