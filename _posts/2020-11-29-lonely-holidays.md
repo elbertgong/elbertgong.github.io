@@ -12,12 +12,12 @@ Internally, I've labeled 2017 as the year that everything went to shit. Labeling
 Also. What are active activities I can do over the weekend to improve my life? AATAII, lol. (Why do I never do them? Why do I get caught in whirlpools of doom? I have a negative-feedback thought pattern that I'm all too familiar with. The only way to break out of it is to get up and do something, especially when I don't feel like it. I can't become Tim Ferriss or whoever in a day. But I can make it a good day.)
 
 Let's talk about my career.
-What are my skills? (I should go back through college and run my hands over the algorithms and coding languages I learned. Also, maybe find a screenshot of the Bing project?)
+What are my skills? (I should go back through college and run my hands over the algorithms and coding languages I learned.)
 What do I want to do next? What are my latent goals?
 What in the Harvard course catalog can help me towards these goals?
 What skills am i missing for interesting jobs (like haralabob’s)?
 Mathematicians and pro basketball players peak at 26. Brain & body development seems to level off at about that age. Am I ready to make the most of my mental prime? I still feel underdeveloped socially. If I expect to do any more innate skill building in my life, it has to take place in the next two years. What is most important? Theoretical math? Reading & writing technical research? Becoming more gregarious? Developing anti-procrastination habits? All of the above... that feels overwhelming.
-Go on crimson careers and type stuff into the search box. Maybe crimson careers is only an inadequate first step, but that doesn't mean I shouldn't take it. At least type >1 queries into the search box! At this stage, I'm just looking for concept clouds. And drilling down on concept clouds like climate/energy, good food, development/poverty, bio/nanotech, and other EA-ish stuff. Social good with a mathy tint. Oh, plus biology for Nate.
+Go on crimson careers and type stuff into the search box. Maybe crimson careers is only an inadequate first step, but that doesn't mean I shouldn't take it. At least type >1 queries into the search box! At this stage, I'm just looking for concept clouds. And drilling down on concept clouds like climate/energy, good food, global health & development/poverty, bio/nanotech, and other EA-ish stuff. Social good with a mathy tint. Oh, plus biology for Nate.
 
 TODO \* Time to run my hands over my previous work, the course catalog, and job resources. (What are my skills?)
 I looked at my old TeXed psets. Lord almighty, I sank so many hours into reading equations, moving around variables in my head, and barely wrapping my head around very thick concepts like variational autoencoders. And then I just forgot it all. I forgot every single fact about deep Bayesian models.
