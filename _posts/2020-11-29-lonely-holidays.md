@@ -34,7 +34,7 @@ What does the bleeding edge of biotech look like? I have no idea. Nchinda-Pudong
 I can picture myself joining the club. I sign up, full of enthusiasm, and confident I can budget enough time for it. I hang in for a couple weeks. I fall behind and am not held accountable. I get discouraged, realizing everyone else is better than me at this. I take too long to _do_ things... I sit around making notes. For every minute I spend tinkering, I spend 4 minutes making notes.
 It is 2021. I knew I had all these problems 3 years ago.
 The problem with Harvard is, I just forgot everything immediately after learning it. I didn't know what I was doing. I was thrashing wildly, and dealing with other serious problems (depression, isolation, procrastination, sleep deprivation). The only things that sank into my bones were CS50, Stat110, and CS181.
-What does the bleeding edge of [linguistics] or [statistics] or [philosophy] or [mathematics] or [applied physics] look like? What about [anthropology of energy] or [French social thought] or [medievel love poetry] or [politics of inequality] or [neuroscience history] or [the art of film]? Again, highly technical. Ok, I'm pretty sure I don't want to spend my next 3 years going to the bleeding edge of anything. But I _do_ want to keep learning these things!
+What does the bleeding edge of [linguistics] or [statistics] or [philosophy] or [mathematics] or [applied physics] look like? What about [anthropology of energy] or [French social thought] or [medieval love poetry] or [politics of inequality] or [neuroscience history] or [the art of film]? Again, highly technical. Ok, I'm pretty sure I don't want to spend my next 3 years going to the bleeding edge of anything. But I _do_ want to keep learning these things!
 
 
 ### Confusion
@@ -49,7 +49,7 @@ Matt Yglesias says we should have 1 billion Americans, and he must have some ide
 
 There is near infinite work to be done. How could anyone be unemployed? There is near infinite content to be consumed. How could anyone be bored?
 Ok, let's drill down on specific problems.
-racial justice, covid crisis relief, domestic violence, health mental health crisis intervention, housing and shelter, employment, civil rights social action, environment and animals, food agriculture nutrition, public safety disaster relief, foreign affairs and national security, science tech, education, arts humanities, recreation sports
+racial justice, covid crisis relief, domestic violence, health, mental health crisis intervention, housing and shelter, employment, civil rights social action, environment and animals, food agriculture nutrition, public safety disaster relief, foreign affairs and national security, science tech, education, arts humanities, recreation sports
 
 Where are the big projects? Chamath says they'll include climate, biotech, education, and food.
 What do most Americans work on now? (They drive trucks.) What might that potentially look like in the future?
