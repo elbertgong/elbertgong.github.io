@@ -17,7 +17,7 @@ Identify precisely what is emotionally resonant. (alex blumberg, "daddy it's ple
 
 It’s just really hard to follow Stravinsky and Scriabin or Ravel harmonically if you don’t have Liszt as context.
 Like the Ravel trio. I'm re-listening to it after 5 years away, I can't figure out where the downbeat is, and the violin melodies over augmented piano plonks just don't hit the same. It sounds much emptier than I remembered. The frenetic moments build & pass much quicker-- I listen through them rather than inside of them. It's like, I'm not the right degree of zoomed-in.
-Tiffany poon practice vlogs. I love her annotations ("follow pedal markings!" "gentler on the phrase ending!") but I definitely don’t practice like that zoomed-in. I have to spend more time playing creatively, to build muscle memory and range without digging a rut into the green.
+Tiffany poon practice vlogs. I love her annotations ("follow pedal markings!" "gentler on the phrase ending!") but I definitely don’t practice like that zoomed-in. I have to spend more time playing creatively, to build muscle memory and range without digging a rut into the fairway.
 
 ## Something else
 
