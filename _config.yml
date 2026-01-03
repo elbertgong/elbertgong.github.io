@@ -28,6 +28,11 @@ search: true
 
 # Build settings
 markdown: kramdown
+# kramdown:
+#   math_engine: mathjax
+
+# mathjax: true
+
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
@@ -58,7 +63,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-# jekyll-remote-theme
+  - jekyll-remote-theme
 
 author:
   name   : "Elbert Gong"
@@ -68,27 +73,27 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://elbertgong.github.io"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ajgij938wkrjn8d"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elbert-gong-03901749/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elbertgong"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/elbert.gong.9"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ajgij938wkrjn8d/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/ajgij938wkrjn8d"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/elbert-gong-03901749/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elbertgong"
     - label: "Facebook"
-      icon: "fab fa-fw fa-facebook"
-      url: "https://facebook.com/elbert.gong.9"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ajgij938wkrjn8d/"
 
 defaults:
   # _posts

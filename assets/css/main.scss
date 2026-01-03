@@ -1,0 +1,63 @@
+---
+# Only the main Sass file needs front matter
+---
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Base font size */
+/*html {
+  font-size: 15px; // default ~16–18px
+}*/
+
+/* Body text */
+.page__content {
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+/* Headings slightly smaller */
+.page__content h1 { font-size: 2.0rem; }
+.page__content h2 { font-size: 1.6rem; }
+.page__content h3 { font-size: 1.3rem; }
+
+.page__content {
+  max-width: 900px; // default ~1100px
+}
+
+.page {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+/* Default images: don't span full width */
+.page__content img {
+  max-width: 75%;
+  height: auto;
+  display: block;
+  margin: 1.5rem auto;
+}
+
+img.math {
+  max-width: 60%;
+}
+
+.page__content p img + em {
+  display: block;
+  text-align: center;
+  /*font-size: 0.9em;*/
+  /*color: #666;*/
+  margin-top: -0.5rem;
+}
+
+/*figure {
+  text-align: center;
+  margin: 2rem auto;
+}
+
+figcaption {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5rem;
+}
+*/

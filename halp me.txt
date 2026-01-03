@@ -32,6 +32,7 @@ bundle exec jekyll serve
 (also, jekyll build is useful)
 (also 'bundle info minima' tells you where minima gem is installed)
 == 2020, back to this stage. The github pages tutorial diverges slightly from the jekyll tutorial, and I should follow the github one. I also apt-got zlib1g-dev and ruby-dev.. ==
+== 2026, back to this stage. i had to update ruby to 3.x, jekyll to 4.x, remove the github-pages gem, and configure Github Actions. ChatGPT helped me. ==
 
 Don't panic and die. Check the various troubleshoot pages.
 Ohh. Jekyll is kinda like Tomcat. You build, and deploy. Lesson: yes, it's hard. But I have a lot of time to get better at things. Just gotta jump into it.
@@ -73,7 +74,8 @@ jekyll creating "pages" and "posts" (done)
 jekyll plugins (done)
 jekyll quickstart
 
-jekyll site examples
+jekyll site 
+https://jekyllthemes.io/free
 http://www.stephaniehicks.com/githubPages_tutorial/pages/githubpages-jekyll.html -> jekyll bootstrap (more themes) and karl broman's barebones simple_site.
 bootstrap
 gohugo.io
