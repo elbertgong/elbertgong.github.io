@@ -70,9 +70,9 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   # bio    : "Hi Nate!"
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://elbertgong.github.io"
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://elbertgong.github.io"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/elbert-gong-03901749/"
