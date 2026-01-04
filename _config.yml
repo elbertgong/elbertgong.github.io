@@ -36,7 +36,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 7 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
@@ -68,7 +68,7 @@ plugins:
 author:
   name   : "Elbert Gong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hi Nate!"
+  # bio    : "Hi Nate!"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -91,7 +91,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/elbertgong"
-    - label: "Facebook"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/ajgij938wkrjn8d/"
 
@@ -105,8 +105,8 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: true
-      related: true
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"

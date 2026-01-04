@@ -32,14 +32,14 @@
 
 /* Default images: don't span full width */
 .page__content img {
-  max-width: 75%;
+  max-width: 65%;
   height: auto;
   display: block;
   margin: 1.5rem auto;
 }
 
 img.math {
-  max-width: 60%;
+  max-width: 50%;
 }
 
 .page__content p img + em {
