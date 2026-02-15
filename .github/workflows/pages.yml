@@ -2,7 +2,7 @@ name: Build and Deploy Jekyll site
 
 on:
   push:
-    branches: ["main"]
+    branches: ["master"]
   workflow_dispatch:
 
 permissions:
@@ -26,7 +26,9 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: false
+          bundler-cache: false # TODO change to true after fixed
+
+      - run: bundle install
 
       - name: Build site
         run: bundle exec jekyll build
