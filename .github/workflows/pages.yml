@@ -26,9 +26,9 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.2"
-          bundler-cache: false # TODO change to true after fixed
+          bundler-cache: true
 
-      - run: bundle install
+      # - run: bundle install # chatgpt says "bundler-cache: true" auto-ran bundle install
 
       - name: Build site
         run: bundle exec jekyll build
