@@ -17,7 +17,8 @@ I ran to Pershing field pool and swam laps for an hour.
 Ubered back home, then took the Path train to West Village for a quick lunch.
 
 #### 1 pm
-I got a call from Holy Apostles Food Bank that they were looking for last-minute volunteers. I went and it was surprisingly fun. You're basically serving clients at a food bank-- you take their orders on an electronic kiosk, pack all of their produce and meats and grains and dairy into three bags, and help them load it into their pushcarts. (Bananas and eggs on top!)
+I got a call from Holy Apostles Food Bank that they were looking for last-minute volunteers. I went and it was surprisingly fun.  
+You're basically serving clients at a food bank-- you take their orders on an electronic kiosk, pack all of their produce and meats and grains and dairy into three bags, and help them load it into their pushcarts. (Bananas and eggs on top!)
 
 ![holy apostles](/assets/images/wednesday/holy apostles.jpg)
 <!-- *Figure 3: Lost load as a function of number of lines removed. Network size: 100 buses, 500 lines.* -->
