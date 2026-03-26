@@ -48,15 +48,15 @@ Ate a quick dinner and then took the subway down to Trinity Church to watch Brah
 <img src="/assets/images/wednesday/downtown voices.png" width="50%" />
 _For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away._
 
-The concert was an absolutely tidal acoustic experience. This was the biggest choir I'd seen in years, and the chamber orchestra was augmented by a [very large organ](https://trinitychurchnyc.org/music/pipe-organs) laying down Earth-shaking pedal tones. I was standing in the very back of the parish hall with waves of sound washing over me. There were a few sharp sounds that pierced through the ocean of resonance-- most notably the timpani hits at the end of the third movement, and the crisp consonants of the baritone soloist (which were crystal clear even from the back of the hall). The baritone was practically spitting those consonants. It was very German and I loved it.
+The concert was an absolutely tidal acoustic experience. This was the biggest choir I'd seen in years, and the chamber orchestra was augmented by a [very large organ](https://trinitychurchnyc.org/music/pipe-organs) laying down Earth-shaking pedal tones. I was standing in the very back of the parish hall with waves of sound washing over me. A few sharp sounds pierced dramatically through this ocean of resonance-- most notably the timpani hits at the end of the third movement, and the crisp consonants of the baritone soloist (which were crystal clear even from the back of the hall). The baritone was practically spitting those consonants. It was very German and I loved it.
 
 > _Herr, lehre doch mich, daß ein Ende mit mir haben mu**ß**, und mein Leben ein **Z**iel ha**t**, und ich davon mu**ß**! und ich davon muß._
 
-It reaffirmed my belief in the magic of live concerts. I had listened to this piece a hundred times through headphones while doing laundry. But in person, the contrasting timbres of the different instrument groups were so much more vivid. In person, it felt much more spiritual.
+It reaffirmed my belief in the magic of live concerts. I had listened to this piece a hundred times through headphones while doing laundry. But in person, the contrasting timbres of the different instrument groups were so much more vivid. It felt much more spiritual.
 
 Also, since this was New York, it seemed to me like almost every person in the audience had sung Brahms Requiem before. 🤣 Even back in the "cheap" seats, folks were mouthing along to the words and taking out their phones to record the exciting part in the sixth movement, like it was Coachella.
 
-After the concert, I tried to find someone to socialize with, but I didn't know a single soul in the choir or the orchestra or the audience, so I went to the bathroom instead. (This is my go-to move as an introvert.)
+After the concert, I tried to find someone to socialize with, but as I did not know a single soul in the choir or the orchestra or the audience, I went to the bathroom instead. (This is my go-to move as an introvert.)
 
 #### 7:30 pm
 I loitered in Trinity commons, answered a few emails, and took the LIRR to Queens.
@@ -94,7 +94,7 @@ I took the elevator back up, showered, and went to sleep. But I could not sleep 
 
 ### This is New York.
 
-In a single day, you experience the full spectrum of human experience; the good, the bad, and the ugly. You witness beautiful music that raises your spirits, and you confront the immensity of the food insecurity crisis. You're surrounded by incredible people and you're also incredibly lonely. You feel inspired to do good productive work, and you also spend hours checking email. You're doing more cool stuff than ever, yet you feel more intense FOMO than ever.  
+In a single day, you experience the full spectrum of human experience; the good, the bad, and the ugly. You witness beautiful music that raises your spirits, and you confront the immensity of the food insecurity crisis. You're surrounded by incredible people and you're also incredibly lonely. You feel inspired to do good productive work, and you also spend hours checking email. You're having more cool experiences than ever, yet you feel more intense FOMO than ever.  
 It's like somebody has turned the "Life" dial all the way up to 11.
 
 <img src="/assets/images/wednesday/life.jpg" width="50%" /> 
