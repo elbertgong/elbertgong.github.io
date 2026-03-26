@@ -56,9 +56,9 @@ It reaffirmed my belief in the magic of live concerts. I had listened to this pi
 
 Also, since this was New York, it seemed to me like almost every person in the audience had sung Brahms Requiem before. 🤣 Even back in the "cheap" seats, folks were mouthing along to the words and taking out their phones to record the exciting part in the sixth movement, like it was Coachella.
 
+#### 7:30 pm
 After the concert, I tried to find someone to socialize with, but as I did not know a single soul in the choir or the orchestra or the audience, I went to the bathroom instead. (This is my go-to move as an introvert.)
 
-#### 7:30 pm
 I loitered in Trinity commons, answered a few emails, and took the LIRR to Queens.
 
 I got a text from my childhood piano teacher, which was heartwarming.
