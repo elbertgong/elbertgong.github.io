@@ -17,8 +17,7 @@ I ran to Pershing field pool and swam laps for an hour.
 Ubered back home, then took the Path train to West Village for a quick lunch.
 
 #### 1 pm
-I got a call from Holy Apostles Food Bank that they were looking for last-minute volunteers. I went and it was surprisingly fun.  
-You're basically serving clients at a food bank-- you take their orders on an electronic kiosk, pack all of their produce and meats and grains and dairy into three bags, and help them load it into their pushcarts. (Bananas and eggs on top!)
+I got a call from Holy Apostles Food Bank that they were looking for last-minute volunteers. I went, and it was surprisingly fun. You're basically serving clients at a food bank-- you take their orders on an electronic kiosk, pack all of their produce and meats and grains and dairy into three bags, and help them load it into their pushcarts. (Bananas and eggs on top!)
 
 ![holy apostles](/assets/images/wednesday/holy apostles.jpg)
 <!-- *Figure 3: Lost load as a function of number of lines removed. Network size: 100 buses, 500 lines.* -->
@@ -48,7 +47,7 @@ Ate a quick dinner and then took the subway down to Trinity Church to watch Brah
 <img src="/assets/images/wednesday/downtown voices.png" width="50%" />
 _For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away._
 
-The concert was an absolutely tidal acoustic experience. This was the biggest choir I'd seen in years, and the chamber orchestra was augmented by a [very large organ](https://trinitychurchnyc.org/music/pipe-organs) laying down Earth-shaking pedal tones. I was standing in the very back of the parish hall with waves of sound washing over me. A few sharp sounds pierced dramatically through this ocean of resonance-- most notably the timpani hits at the end of the third movement, and the crisp consonants of the baritone soloist (which were crystal clear even from the back of the hall). The baritone was practically spitting those consonants. It was very German and I loved it.
+The concert was an absolutely tidal acoustic experience. This was the biggest choir I'd seen in years, and the chamber orchestra was augmented by a [very large organ](https://trinitychurchnyc.org/music/pipe-organs) laying down Earth-shaking pedal tones. I was standing in the very back of the parish hall with waves of sound washing over me. A few sharp sounds dramatically pierced through this ocean of resonance-- most notably the timpani hits at the end of the third movement, and the crisp consonants of the baritone soloist (which were crystal clear even from the back of the hall). The baritone was practically spitting those consonants. It was very German and I loved it.
 
 > _Herr, lehre doch mich, daß ein Ende mit mir haben mu**ß**, und mein Leben ein **Z**iel ha**t**, und ich davon mu**ß**! und ich davon muß._
 
@@ -59,7 +58,7 @@ Also, since this was New York, it seemed to me like almost every person in the a
 #### 7:30 pm
 After the concert, I tried to find someone to socialize with, but as I did not know a single soul in the choir or the orchestra or the audience, I went to the bathroom instead. (This is my go-to move as an introvert.)
 
-I loitered in Trinity commons, answered a few emails, and took the LIRR to Queens.
+I loitered around in Trinity commons, answered a few emails, and took the LIRR to Queens.
 
 I got a text from my childhood piano teacher, which was heartwarming.
 
@@ -72,8 +71,7 @@ Played tennis at the Billie Jean King National Tennis Center. The BJK NTC is a b
 Unfortunately it began raining after 15 minutes. My stomach lurched at the thought of cutting it short after having traveling 1+ hours to get there. But (thank god!) the staff gave us a refund and we got to play out the rest of our session indoors.
 
 Finding tennis court time in New York City is comically difficult. The [BJK NTC online court reservations](https://www.ntc.usta.com/book-a-court) open up 48 hours in advance, and when they do, the open slots disappear faster than a guppy in a piranha tank. If you try to book even a second late, they'll all be claimed. You have to click at exactly 48 hours (plus 500 milliseconds or so to account for network latency)-- that way, you're only competing against the other piranhas. It's crazy. I've heard rumors of people writing click bots. Perhaps someday somebody will build an underground fiber-optic cable directly from their desktop to the NTC's servers, like the [Hummingbird Project](https://en.wikipedia.org/wiki/The_Hummingbird_Project).  
-This system design is highly unfortunate-- if you're not "in the know", you have no chance. It's unintentionally gatekeepy.  
-NYC is not without its upsides, but if you value easy access to tennis courts, NYC is not the place for you. Try literally anywhere else in the country.
+This system design is highly unfortunate-- if you're not "in the know", you have no chance. It's unintentionally gatekeepy. NYC is not without its upsides, but if you value easy access to tennis courts, NYC is not the place for you. Try literally anywhere else in the country.
 
 <!-- A lottery would be more equitable -->
 <!--  It has the lowest carbon emissions per capita in the country, because people live in dense apartments and take public transit. -->
@@ -94,7 +92,7 @@ I took the elevator back up, showered, and went to sleep. But I could not sleep 
 
 ### This is New York.
 
-In a single day, you experience the full spectrum of human experience; the good, the bad, and the ugly. You witness beautiful music that raises your spirits, and you confront the immensity of the food insecurity crisis. You're surrounded by incredible people and you're also incredibly lonely. You feel inspired to do good productive work, and you also spend hours checking email. You're having more cool experiences than ever, yet you feel more intense FOMO than ever.  
+In a single day, you're exposed to the full spectrum of human experience; the good, the bad, and the ugly. You witness beautiful music that raises your spirits, and you confront the immensity of the food insecurity crisis. You're surrounded by incredible people and you're also incredibly lonely. You feel inspired to do good productive work, and you also spend hours checking email. You're having more cool experiences than ever, yet you feel more intense FOMO than ever.  
 It's like somebody has turned the "Life" dial all the way up to 11.
 
 <img src="/assets/images/wednesday/life.jpg" width="50%" /> 
