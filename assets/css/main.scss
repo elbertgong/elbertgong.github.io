@@ -38,6 +38,11 @@
   margin: 1.5rem auto;
 }
 
+/* Wider images when necessary. */
+.page__content img.img-wide {
+  max-width: 90%;
+}
+
 img.math {
   max-width: 50%;
 }

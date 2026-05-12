@@ -3,29 +3,34 @@ title:  "Energetic"
 date:   2026-05-10 00:00:00 -0800
 ---
 
-Since moving to NYC 6 months ago, I’ve gotten into this board game.
+Since moving to NYC 6 months ago, I’ve gotten really into this board game.
 
-![collage](/assets/images/energetic/collage.png)
+<!-- ![collage](/assets/images/energetic/collage.png) -->
+<img src="/assets/images/energetic/collage.png" class="img-wide" width="90%" />
 
 The name of the game is Energetic. It’s a clean-energy-themed collaborative board game where the goal is to build 16 Gigawatts of clean energy by the year 2035. Each year, you draw action cards and spend money to place infrastructure tokens, such as solar, wind, and transmission, on the board. At the same time, you have to manage (a) the budget, (b) the grid stability, and (c) public opinion-- all of which are closely intertwined. For instance, if you build unpopular infrastructure that tanks your public opinion, you might lose the next election and get your budget cut in half!
 
-The game makes you do [systems-level thinking](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). Even if you've read a lot of news stories about wind or solar or whatever, you may have gaps in your foundational intuition of how the pieces of the puzzle fit together. Playing the game, you begin to knit together disparate concepts into a more cohesive picture. *If we build this, how does it affect that? If we do that, how does it affect this other thing?* What are our options? What are our constraints? What are our strategies?
+The game makes you do [systems-level thinking](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). Even if you've read a lot of news stories about wind or solar or whatever, you may have gaps in your foundational intuition of how the pieces of the puzzle fit together. Playing the game, you begin to knit together disparate concepts into a more cohesive picture. *If we build this, how does it affect that? If we do that, how does it affect this other thing? What are our options? What are our constraints? What are our strategies?*
 
 Like, how do solar and wind and nuclear and hydro stack up against each other?
-![infra_cards](/assets/images/energetic/infra_cards.png)
+
+<img src="/assets/images/energetic/infra_cards.png" class="img-wide" width="85%" />
 
 What research and policy levers can we pull (or not pull)?
-![research_policy_cards](/assets/images/energetic/research_policy_cards.png)
+
+<img src="/assets/images/energetic/research_policy_cards.png" class="img-wide" width="85%" />
 
 What else can go wrong?
-![wildcards](/assets/images/energetic/wildcards.jpg)
+
+<img src="/assets/images/energetic/wildcards.jpg" class="img-wide" width="85%" />
 
 And how do we wrap our heads around the scale of it all? What is a Gigawatt, really? What does a Gigawatt _feel_ like?
-![solar_covering_manhattan](/assets/images/energetic/solar_covering_manhattan.png)
+<img src="/assets/images/energetic/solar_covering_manhattan.png" class="img-wide" width="80%" />
 
 The goal of the game is to build 16 Gigawatts, which, divided by 8 million New Yorkers, works out to 2 kilowatts per person, which the UN considers "a sustainable level of power consumption." That may seem low, given that today's middle-class US citizens use 4 kW on average.[^1] But even 16 GW is a conservative estimate that "assumes a significant reduction in power demand through behavioral change and energy efficiency."[^2]
 
 I once spent a day in 2022 installing solar panels on a rooftop with 3 other people. It took us 6 hours to install 10 panels, which was like 3 kilowatts. Thinking about that day out in the sun and all the labor and love that went into those three kilowatts, and then looking again at the diagram above, I feel the diagram more viscerally.
+
 ![aldhar_solar](/assets/images/energetic/aldhar_solar.jpg)
 ![solar_completed](/assets/images/energetic/solar_completed.jpg)
 
@@ -34,27 +39,30 @@ I once spent a day in 2022 installing solar panels on a rooftop with 3 other peo
 The game has a steep learning curve. You'll be a bit confused as you stumble through the first couple turns, but by the second and third hour of play, you’ll be off and running and having a good time. It mirrors real life in that way-- initial progress seems impossible and your targets seem hopelessly out of reach, but if you invest early in research + policy + infrastructure, the benefits compound over time and kick off a virtuous cycle. For example, if you play multiple infrastructure tokens in a region, you unlock a "cluster benefit", which improves the public-opinion impact of future infrastructure. As you unlock more and more benefits, you begin to see an exponential takeoff on the board. But at the same time, your problems get exponentially worse– natural disasters, market crashes, pandemics (all represented by red "random event" cards which increase in frequency after the year 2031). It feels both incredibly pessimistic and incredibly optimistic, which is both thrilling and head-spinning. You get the sensation of stepping outside of yourself and confronting what the city and the world will look like over the next 30 years. And even refracted through the lens of a board game, the size and scale of that are awesome and terrifying to behold.
 
 There's this Stephen King novel, "Under The Dome", in which aliens place an impenetrable transparent dome over a suburban town,[^3] and social structures immediately start breaking down as the town descends into panic. The climate crisis is likely going to make us feel like that. The Earth is our Dome. We are at its mercy. We do not yet know how to control it; we do not yet know how to escape it. If things go off the rails, it is we who will perish, not the Earth.
-![under_the_dome](/assets/images/energetic/under_the_dome.jpg)
 
-This panic lies latent in our culture. It's a simmering sort of "quiet desperation", as Thoreau put it.[^4]
+<img src="/assets/images/energetic/under_the_dome.jpg" width="45%" />
+
+This panic pervades our culture. We live anxious, untethered lives, and we know something feels wrong, but it's hard to put into words. It's a simmering sort of "quiet desperation", as Thoreau put it.[^4]
 
 > The mass of men lead lives of quiet desperation... A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things..
-
-We live distracted, untethered lives; we know something feels wrong, but it's hard to put into words.  
 
 I heard this phrase "quiet desperation" a couple weeks ago at a retreat in Connecticut. It really struck me, as it perfectly captured the way I've been feeling for years. Since 2017, I’ve often been too focused on myself-- my own grades, my resume, my career trajectory relative to my peers, my various physical and emotional needs.
 
 ![tom](/assets/images/energetic/tom.png) *I’m a grinder. I grind because I worry all night.. All the threats to me and to, um, my division and my physical body.[^5]*
 
-We cannot grind our way out of the climate crisis. "When we are stressed, overwhelmed, and running on empty, our capacity for long-term, planet-centered thinking completely disappears."[^6] We must rediscover the feeling of being connected to something larger than oneself, like a wave in the ocean. How can one provoke this feeling?  
-A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or, as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat, "the joyful struggle of touching something real."  
-Sometimes, laying on the grass on a quiet day, you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the release of a little bit of quiet desperation.
+We cannot grind our way out of the climate crisis. "When we are stressed, overwhelmed, and running on empty, our capacity for long-term, planet-centered thinking completely disappears."[^6] We must rediscover the feeling of being connected to something larger than oneself, like a wave in the ocean.
 
-I hope to use this board game as a way to invite people into this feeling. To join in the joyful struggle of swimming together, like salmon, up a massive current.  
-I'll be hosting a game night in July. The venue will be [anew.world](https://www.anew.world/) in the West Village in Manhattan. I would love nothing more than to have over a diverse group of friends and strangers, introduce them to each other, and enjoy a casual board game over some afternoon tea and snacks.
-![event_room](/assets/images/energetic/event_room.jpg)
+How can we provoke this feeling? A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or, as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat, "the joyful struggle of touching something real."  
+Sometimes, laying on the grass on a quiet day, you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the release of a subconscious bit of quiet desperation.
+
+I hope to use this board game as a way to invite people into this feeling.  
+In July, I'll be hosting a game night. The venue will be [anew.world](https://www.anew.world/) in the West Village in Manhattan. I would love nothing more than to have over a group of friends and strangers, introduce them to each other, and enjoy a casual board game over some afternoon tea and snacks.
+
+<img src="/assets/images/energetic/event_room.jpg" class="img-wide" width="75%" />
 
 Consider yourself invited.
+
+---
 
 [^1]: In NYC it's actually lower, since people live in dense apartments and take public transit.
 [^2]: [Energetic educator's guide](https://newyork.thecityatlas.org/energetic-the-board-game/links/)
