@@ -10,7 +10,7 @@ Since moving to NYC 6 months ago, I’ve gotten really into this board game.
 
 The name of the game is Energetic. It’s a clean-energy-themed collaborative board game where the goal is to build 16 Gigawatts of clean energy by the year 2035. Each year, you draw action cards and spend money to place infrastructure tokens, such as solar, wind, and transmission, on the board. At the same time, you have to manage (a) the budget, (b) the grid stability, and (c) public opinion-- all of which are closely intertwined. For instance, if you build unpopular infrastructure that tanks your public opinion, you might lose the next election and get your budget cut in half!
 
-The game makes you do [systems-level thinking](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). Even if you've read a lot of news stories about wind or solar or whatever, you may have gaps in your foundational intuition of how the pieces of the puzzle fit together. Playing the game, you begin to knit together disparate concepts into a more cohesive picture. *If we build this, how does it affect that? If we do that, how does it affect this other thing? What are our options? What are our constraints? What are our strategies?*
+The game makes you [think at the systems-level](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). Even if you're well-versed wind or solar or whatever, you may have gaps in your foundational intuition of how the pieces of the puzzle fit together. As you play the game, you subconsciously begin to knit together disparate concepts into a more cohesive picture. *If we build this, how does it affect that? If we do that, how does it affect this other thing? What are our options? What are our constraints? What are our strategies?*
 
 Like, how do solar and wind and nuclear and hydro stack up against each other?
 
@@ -36,13 +36,13 @@ I once spent a day in 2022 installing solar panels on a rooftop with 3 other peo
 
 ---
 
-The game has a steep learning curve. You'll be a bit confused as you stumble through the first couple turns, but by the second and third hour of play, you’ll be off and running and having a good time. It mirrors real life in that way-- initial progress seems impossible and your targets seem hopelessly out of reach, but if you invest early in research + policy + infrastructure, the benefits compound over time and kick off a virtuous cycle. For example, if you play multiple infrastructure tokens in a region, you unlock a "cluster benefit", which improves the public-opinion impact of future infrastructure. As you unlock more and more benefits, you begin to see an exponential takeoff on the board. But at the same time, your problems get exponentially worse– natural disasters, market crashes, pandemics (all represented by red "random event" cards which increase in frequency after the year 2031). It feels both incredibly pessimistic and incredibly optimistic, which is both thrilling and head-spinning. You get the sensation of stepping outside of yourself and confronting what the city and the world will look like over the next 30 years. And even refracted through the lens of a board game, the size and scale of that are awesome and terrifying to behold.
+The game has a steep learning curve. You may be a bit confused as you stumble through the first couple turns, but by the second and third hour of play, you’ll be off and running and having a good time. It mirrors real life in that way-- initial progress seems impossible and your targets seem hopelessly out of reach, but if you invest early in research + policy + infrastructure, the benefits compound over time and kick off a virtuous cycle. For example, if you play multiple infrastructure tokens in a region, you unlock a "cluster benefit", which improves the public-opinion impact of future infrastructure. As you unlock more and more benefits, you begin to see an exponential takeoff on the board. But at the same time, your problems get exponentially worse– natural disasters, market crashes, pandemics (all represented by red "random event" cards which increase in frequency after the year 2031). It feels both incredibly pessimistic and incredibly optimistic, which is both thrilling and head-spinning. You get the sensation of stepping outside of yourself and confronting what the city and the world will look like over the next 30 years. And even refracted through the lens of a board game, the size and scale of that are awesome and terrifying to behold.
 
 There's this Stephen King novel, "Under The Dome", in which aliens place an impenetrable transparent dome over a suburban town,[^3] and social structures immediately start breaking down as the town descends into panic. The climate crisis is likely going to make us feel like that. The Earth is our Dome. We are at its mercy. We do not yet know how to control it; we do not yet know how to escape it. If things go off the rails, it is we who will perish, not the Earth.
 
 <img src="/assets/images/energetic/under_the_dome.jpg" width="45%" />
 
-This panic pervades our culture. We live anxious, untethered lives, and we know something feels wrong, but it's hard to put into words. It's a simmering sort of "quiet desperation", as Thoreau put it.[^4]
+This latent panic pervades our culture. We live anxious, unfocused lives, and we know something feels wrong, but it's hard to put into words. It's a simmering sort of "quiet desperation", as Thoreau put it:[^4]
 
 > The mass of men lead lives of quiet desperation... A stereotyped but unconscious despair is concealed even under what are called the games and amusements of mankind. There is no play in them, for this comes after work. But it is a characteristic of wisdom not to do desperate things..
 
@@ -52,15 +52,17 @@ I heard this phrase "quiet desperation" a couple weeks ago at a retreat in Conne
 
 We cannot grind our way out of the climate crisis. "When we are stressed, overwhelmed, and running on empty, our capacity for long-term, planet-centered thinking completely disappears."[^6] We must rediscover the feeling of being connected to something larger than oneself, like a wave in the ocean.
 
-How can we provoke this feeling? A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or, as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat, "the joyful struggle of touching something real."  
-Sometimes, laying on the grass on a quiet day, you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the release of a subconscious bit of quiet desperation.
+How can we provoke this feeling?
 
-I hope to use this board game as a way to invite people into this feeling.  
+A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or, as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat, "the joyful struggle of touching something real."  
+Sometimes, you'll be laying on the grass on a quiet day, and you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the quiet desperation fade out of your body, leaving behind a tranquil clarity.
+
+I hope to use this board game as a gateway to invite people into this feeling.  
 In July, I'll be hosting a game night. The venue will be [anew.world](https://www.anew.world/) in the West Village in Manhattan. I would love nothing more than to have over a group of friends and strangers, introduce them to each other, and enjoy a casual board game over some afternoon tea and snacks.
 
 <img src="/assets/images/energetic/event_room.jpg" class="img-wide" width="75%" />
 
-Consider yourself invited.
+Consider yourself invited!
 
 ---
 
