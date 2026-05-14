@@ -10,7 +10,7 @@ Since moving to NYC 6 months ago, I’ve gotten really into this board game.
 
 The name of the game is Energetic. It’s a clean-energy-themed collaborative board game where the goal is to build 16 Gigawatts of clean energy by the year 2035. Each year, you draw action cards and spend money to place infrastructure tokens, such as solar, wind, and transmission, on the board. At the same time, you have to manage (a) the budget, (b) the grid stability, and (c) public opinion-- all of which are closely intertwined. For instance, if you build unpopular infrastructure that tanks your public opinion, you might lose the next election and get your budget cut in half!
 
-The game makes you [think at the systems-level](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). Even if you're well-versed wind or solar or whatever, you may have gaps in your foundational intuition of how the pieces of the puzzle fit together. As you play the game, you subconsciously begin to knit together disparate concepts into a more cohesive picture. *If we build this, how does it affect that? If we do that, how does it affect this other thing? What are our options? What are our constraints? What are our strategies?*
+If you're like me, you've read about wind or solar or whatever in the news, but you lack foundational intuition of how the pieces of the puzzle fit together. As you play the game, you subconsciously begin to knit together disparate concepts into a more cohesive picture. The game forces you to [think at the systems-level](https://newyork.thecityatlas.org/cityatlas-guests-interviews/eugene-kirpichov/#:~:text=systems%20thinking.,very%20profound%20insights.). *If we build this, how does it affect that? If we do that, how does it affect this other thing? What are our options? What are our constraints? What are our strategies?*
 
 Like, how do solar and wind and nuclear and hydro stack up against each other?
 
@@ -54,8 +54,8 @@ We cannot grind our way out of the climate crisis. "When we are stressed, overwh
 
 How can we provoke this feeling?
 
-A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or, as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat, "the joyful struggle of touching something real."  
-Sometimes, you'll be laying on the grass on a quiet day, and you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the quiet desperation fade out of your body, leaving behind a tranquil clarity.
+A psychedelic trip, maybe. Or the birth of a child. A close brush with death. Looking at the stars on a cloudless night. Or (as [Ryan Kemp](https://www.wheaton.edu/academics/faculty/ryan-kemp/) put it during the retreat) "the joyful struggle of touching something real."  
+Sometimes, you'll be laying on the grass on a quiet day, and you'll look up at the open sky. You'll sigh deeply, and the muscles in your shoulders will loosen. You'll think about how little control you have over it all. You'll feel the quiet desperation fade out of your body, leaving behind a quiet clarity.
 
 I hope to use this board game as a gateway to invite people into this feeling.  
 In July, I'll be hosting a game night. The venue will be [anew.world](https://www.anew.world/) in the West Village in Manhattan. I would love nothing more than to have over a group of friends and strangers, introduce them to each other, and enjoy a casual board game over some afternoon tea and snacks.
